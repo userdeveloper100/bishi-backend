@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables
+.env
+
+# Database SQLite files (if used)
+*.sqlite
+*.sqlite3
+
+# Sequelize CLI folders
+migrations/
+seeders/
+models/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output
+/dist
+/build
+coverage/
+
+# Misc
+*.tgz
+*.gz
